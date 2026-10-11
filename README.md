@@ -4,9 +4,8 @@
 
 **Platform:** Retell AI
 
-**Published Agent:** [Try the Loan Against Property (LAP) Qualification Voice Agent](https://agent.retellai.com/orb/agent_c220a67249d75495f5e18a46b1?token=5371d5bc36759eecde484748f4425a67)
-
-
+**Published Agent:** [Try the Loan Against Property (LAP) Qualification Voice Agent](https://agent.retellai.com/orb/agent_bcbf4a90b8b1bcb48a1db2c741?token=373a9c6b9974aad6796fb88c3697fa76)
+.
 
 ## 1. Project Overview
 
