@@ -1,5 +1,13 @@
 # Home Credit AI Voice Agent — Loan Against Property (LAP)
 
+## Live Voice Agent Demo
+
+**Platform:** Retell AI
+
+**Published Agent:** [Try the Loan Against Property (LAP) Qualification Voice Agent](https://agent.retellai.com/orb/agent_c220a67249d75495f5e18a46b1?token=5371d5bc36759eecde484748f4425a67)
+
+
+
 ## 1. Project Overview
 
 This project implements an AI-powered voice agent for preliminary customer qualification for Home Credit's Loan Against Property (LAP) offering.
