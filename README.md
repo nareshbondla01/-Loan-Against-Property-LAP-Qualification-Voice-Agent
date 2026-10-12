@@ -194,9 +194,9 @@ The system prompt stored in the repository should match the final prompt deploye
 
 **Voice Agent Platform:** Retell AI
 
-**Live Voice Agent Demo:** [Insert the Retell Voice Orb shareable link]
+**Live Voice Agent Demo:** [https://agent.retellai.com/orb/agent_bcbf4a90b8b1bcb48a1db2c741?token=373a9c6b9974aad6796fb88c3697fa76]
 
-**GitHub Repository:** [Insert the GitHub repository URL]
+**GitHub Repository:** [https://github.com/nareshbondla01/-Loan-Against-Property-LAP-Qualification-Voice-Agent.git]
 
 The Retell shareable link should be tested before submission to confirm that the evaluator can access the voice demo.
 
