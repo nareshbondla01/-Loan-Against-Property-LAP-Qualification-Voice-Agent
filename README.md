@@ -3,7 +3,7 @@
 
 **Platform:** Retell AI
 
-**Published Agent:** [Try the Loan Against Property (LAP) Qualification Voice Agent](https://agent.retellai.com/orb/agent_bcbf4a90b8b1bcb48a1db2c741?token=373a9c6b9974aad6796fb88c3697fa76)  
+**PUBLISHED AGENT LINK:** [Try the Loan Against Property (LAP) Qualification Voice Agent](https://agent.retellai.com/orb/agent_bcbf4a90b8b1bcb48a1db2c741?token=373a9c6b9974aad6796fb88c3697fa76)  
 ...
 .
 
